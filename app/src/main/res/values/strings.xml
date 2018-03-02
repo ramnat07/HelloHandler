@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Handler</string>
+    <string name="txt_btn_start">Start progress</string>
+    <string name="tveld_done"></string>
+</resources>
